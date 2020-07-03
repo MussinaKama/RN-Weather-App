@@ -1,4 +1,4 @@
-const apiKey = "b72b06e94024103dcc49ba18cc9af972";
+
 
 export const weatherApi = (path, {zipcode, coords}) => {
     let suffix = '';
